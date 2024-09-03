@@ -4,7 +4,8 @@ This collection of projects showcases the power and versatility of Python in han
 
 # Projects Overview
 
-# # Project Name 1: A brief description of what this project does and its key features.
+# # Project 1: Global Warming Analysis,
+This project utilizes a comprehensive set of global temperature datasets, including records by city, country, major city, and state, to analyze and visualize the impacts of global warming. The analysis is conducted using Python, leveraging libraries such as Pandas, Matplotlib, and Geopandas to create spatial maps and explore temperature trends over time. The project's main objective is to provide a detailed examination of how global warming affects different regions across the world, offering valuable insights into the ongoing climate crisis.
 ![image](https://github.com/user-attachments/assets/38c776de-a586-483a-a933-34620ae0fc18)
 
 # # Project Name 2: A brief description of what this project does and its key features.
