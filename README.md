@@ -25,6 +25,7 @@ Clone the repository:
 bash
 Copy code
 git clone https://github.com/LocNguyenTKP/Geospatial_Projects_Python.git
+
 Navigate to the project directory and install the dependencies:
 
 bash
