@@ -12,7 +12,6 @@ This project utilizes a comprehensive set of global temperature datasets, includ
 This project, "Spatial Analysis of Zomato Data," focuses on examining the spatial distribution and characteristics of restaurant data obtained from Zomato. The project leverages geospatial analysis techniques to explore various aspects of the data, such as the distribution of restaurants, cuisine types, and ratings across different regions. By using Python libraries such as Pandas, Geopandas, and Matplotlib, this analysis provides insights into how different factors influence the restaurant landscape in various geographical areas. The primary goal of this project is to uncover patterns and trends in the restaurant industry that could be useful for business strategy, market analysis, and understanding consumer preferences.
 ![image](https://github.com/user-attachments/assets/6cd4dd68-ef27-4581-b69f-9a49a4c7f95d)
 
-# # Project Name 3: A brief description of what this project does and its key features.
 
 # Getting Started
 To explore these projects, clone this repository and follow the instructions provided in each project's folder. Each project contains its own README file with detailed setup instructions and explanations of the code.
